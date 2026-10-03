@@ -1,0 +1,2 @@
+STUDENT_NAME = ""
+GROUP = ""
